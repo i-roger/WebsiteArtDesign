@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    justify-content: start;
+    flex-direction: column;
+    margin: 10px 50px;
+}
+.header {
+    border: whitesmoke solid 3px;
+    color: #ff3939;;
+}
+
+.content {
+    border: whitesmoke solid 3px;
+    color: #d38585;
+}
